@@ -7,7 +7,7 @@ Hi there! 👋 I'm Shubhangi Bhoyar, a learner based in PUNE. I love coding, col
 - Programming Languages: GOLANG ,Python, JAVA, Shellscript
 - Web Technologies: HTML, CSS
 - Databases: MySQL, MongoDB
-- Tools & Platforms:  Git, Docker
+- Tools & Platforms:  LINUX , Git, Docker
 - Others: Machine Learning
 
 ## 🌟 Featured Projects
